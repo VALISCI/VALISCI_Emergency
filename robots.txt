@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://valisci.com/sitemap.xml
